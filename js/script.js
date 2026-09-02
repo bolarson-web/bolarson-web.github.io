@@ -12,7 +12,7 @@ if (navToggle && nav) {
 // Logo rotation
 var word = document.querySelector('.word');
 
-var wordsArray = ['', ' AI ', ' Data ', ' Web ', ' Cloud ', ' Business ', ' Project '];
+var wordsArray = [' AI ', ' Data ', ' Web ', ' Cloud ', ' Business ', ' Project '];
 var wordsIncrease = 0;
 
 function showText(){
