@@ -1361,6 +1361,8 @@ img {
 
   .header-inner {
     position: relative;
+    min-height: 79.2px;
+
   }
 
   .nav.nav-open {
